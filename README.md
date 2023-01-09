@@ -6,7 +6,7 @@ description: >-
 
 # Welcome to Fractal
 
-Fractal provides tools to support everyone from DAO members to Web3 developers:
+Fractal offers tools to support everyone from DAO members to Web3 developers:
 
 * Developers - Build modules to extend the functionality of DAOs and develop new front-end user experiences.
 * DAO Organizers - Create on-chain DAOs and establish their governance models.
